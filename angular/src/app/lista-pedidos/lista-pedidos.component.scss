@@ -1,0 +1,35 @@
+.row {
+  width: 100%;
+  margin: 10px 0;
+}
+
+.btn-primary {
+  background-color: #218838;
+  color: #FFFFFF;
+  float: right;
+}
+
+h2 {
+  text-align: center;
+}
+
+.table-pedidos {
+  width: 100%;
+  margin-top: 30px;
+}
+
+.btn-large {
+  font-size: 5px;
+  width: 15%;
+  height: 15%;
+  margin: 10px;
+}
+
+:host ::ng-deep .mat-fab .mat-button-wrapper {
+  padding: 0;
+}
+
+.center {
+  align-items: center;
+  text-align: center;
+}
